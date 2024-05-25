@@ -1,0 +1,7 @@
+label each line on graph.
+x and y axis have to be changed on multiple graphs
+add time frames to look more precisely
+add live news to the main page (if possible)
+add disclaimer: prediction is based on data only, invest on your own risk
+adding some user friendly details about what element will do what.
+
